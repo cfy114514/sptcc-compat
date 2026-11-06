@@ -1,0 +1,14 @@
+/.tools/
+/.local-signing/
+/build/
+/classes/
+/dex/
+/framework/
+/apk/build/
+/apk/dist/
+/native/*.so
+*.p12
+*.jks
+*.keystore
+*.idsig
+__pycache__/

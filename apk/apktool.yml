@@ -1,0 +1,16 @@
+version: 2.10.0
+apkFileName: sptcc-compat.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+sdkInfo:
+  minSdkVersion: '26'
+  targetSdkVersion: '28'
+packageInfo:
+  forcedPackageId: '127'
+versionInfo:
+  versionCode: '1'
+  versionName: '0.1-test'
+doNotCompress:
+- resources.arsc
